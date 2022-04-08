@@ -1,1 +1,1 @@
-My lab 4 solution is [here](https://github.com/AlekseiBalabko/news-lab)
+My lab 4 solution is [here](https://github.com/ilacernenko12/news-lab)# IPR-2-1
